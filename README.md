@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
-<h3 align="center">I am a student of computer science, a aspiring system admin or helpdesk engineer</h3>
+<h3 align="center">I Am currently working as a Helpdesk</h3>
 
--   🌱 I’m currently learning **Windows Server, Linux**
+-   🌱 Skills I'm learning: C#, networking(for CCNA certificate)
+
+-   :clipboard: Skills I've developed a bit: ReactJs, JavaScript, Css, Html, Python, Linux
 
 -   📫 How to reach me **alan.skrrrz@gmail.com**
 
