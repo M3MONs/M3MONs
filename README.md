@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
-<h3 align="center">I Am currently working as a Helpdesk</h3>
+<h3 align="center">I am currently working as a Helpdesk</h3>
 
 -   🌱 Skills I'm learning: C#, networking(for CCNA certificate)
 
