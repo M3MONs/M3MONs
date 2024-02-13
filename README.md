@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
-<h3 align="center">I am currently working as a Helpdesk</h3>
+<h3 align="center">I am currently working as a Helpdesk engineer</h3>
 
--   🌱 Skills I'm learning: C#, networking(for CCNA certificate)
+-   🌱 Skills I'm learning: Django, Unreal Engine 5
 
--   :clipboard: Skills I've developed a bit: ReactJs, JavaScript, Css, Html, Python, Linux
+-   :clipboard: Skills I've developed: Python, ReactJs, JavaScript, Linux
 
 -   📫 How to reach me **alan.skrrrz@gmail.com**
 
