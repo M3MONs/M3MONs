@@ -13,6 +13,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,html,css,python,flask,django)](https://skillicons.dev)
 
+<h3 align="left">Databases:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb)](https://skillicons.dev)
+
 <h3 align="left">Systems and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,linux,debian,ubuntu,windows,docker,git,npm,postman,bash)](https://skillicons.dev)
