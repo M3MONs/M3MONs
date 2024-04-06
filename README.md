@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Alan</h1>
+<h1 align="center">Hi 👋, I'm Alan <bl> 
+  
+  ![](https://komarev.com/ghpvc/?username=M3MONs) </bl></h1>
+
+
 <h3 align="center">I am currently working as a Helpdesk engineer</h3>
 
 -   :clipboard: Skills I've developed: Python, ReactJs, JavaScript, Linux
