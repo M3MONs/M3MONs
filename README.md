@@ -24,3 +24,7 @@
 <h3 align="left">Systems and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,linux,debian,ubuntu,windows,docker,git,npm,postman,bash)](https://skillicons.dev)
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=M3MONs&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=M3MONs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
