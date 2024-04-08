@@ -5,6 +5,10 @@
 
 <h3 align="center">I am currently working as a Helpdesk engineer</h3>
 
+- 🔭 I’m currently working on [hltv_api](https://github.com/M3MONs/hltv-api)
+
+- 🌱 I’m currently learning **Docker, UE5**
+
 -   :clipboard: Skills I've developed: Python, ReactJs, JavaScript, Linux
 
 -   📫 How to reach me **alan.skrrrz@gmail.com**
@@ -28,3 +32,4 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=M3MONs&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=M3MONs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
