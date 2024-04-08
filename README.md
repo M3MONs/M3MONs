@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Alan <bl> 
+<h1 align="center">Hi 👋, I'm Alan<bl>
+  <p></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m3mons&theme=dark" alt="m3mons" /></p>
   
   ![](https://komarev.com/ghpvc/?username=M3MONs) </bl></h1>
 
@@ -19,7 +21,10 @@
 </p>
 <h3 align="left">Languages:</h3>
 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=m3mons&theme=dark&show_icons=true&locale=en&layout=compact" alt="m3mons" /></p>
+
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,html,css,python,flask,django)](https://skillicons.dev)
+
 
 <h3 align="left">Databases:</h3>
 
@@ -28,8 +33,3 @@
 <h3 align="left">Systems and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,linux,debian,ubuntu,windows,docker,git,npm,postman,bash)](https://skillicons.dev)
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=M3MONs&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=M3MONs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
