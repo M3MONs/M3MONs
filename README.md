@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Docker, UE5**
 
--   :clipboard: Skills I've developed: Python, ReactJs, JavaScript, Linux
-
 -   📫 How to reach me **alan.skrrrz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
