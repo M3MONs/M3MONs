@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [bet-simulator](https://github.com/M3MONs/bet-simulator)
 
-- 🌱 I’m currently learning **Docker, UE5**
+- 🌱 I’m currently learning **Docker, Angular**
 
 -   📫 How to reach me **alan.skrrrz@gmail.com**
 
