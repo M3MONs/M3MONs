@@ -7,7 +7,7 @@
 
 <h3 align="center">I am currently working as a Helpdesk engineer</h3>
 
-- 🔭 I’m currently working on [bet-simulator](https://github.com/M3MONs/hltv-api](https://github.com/M3MONs/bet-simulator)
+- 🔭 I’m currently working on [bet-simulator](https://github.com/M3MONs/bet-simulator)
 
 - 🌱 I’m currently learning **Docker, UE5**
 
