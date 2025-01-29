@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan<bl>
   <p></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m3mons&theme=dark" alt="m3mons" /></p>
   
   ![](https://komarev.com/ghpvc/?username=M3MONs) </bl></h1>
 
