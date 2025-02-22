@@ -8,7 +8,9 @@
 
 - 🌱 I’m currently learning **ASP.NET**
 
--   📫 How to reach me **alan.skrrrz@gmail.com**
+- :construction_worker: Currently working:  <a href="https://github.com/M3MONs/bet-project">bet-project</a>
+
+- 📫 How to reach me **alan.skrrrz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
