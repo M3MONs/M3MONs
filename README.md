@@ -6,7 +6,7 @@
 
 <h3 align="center">Junior Software Developer</h3>
 
-- :construction_worker: Currently working:  <a href="https://github.com/M3MONs/bet-project">bet-project</a>
+- :construction_worker: Currently learning:  SQL and PostgreSQL: The Complete Developer's Guide
 
 - 📫 How to reach me **alan.skrrrz@gmail.com**
 
