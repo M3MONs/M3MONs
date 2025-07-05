@@ -6,7 +6,7 @@
 
 <h3 align="center">Junior Software Developer</h3>
 
-- :construction_worker: Currently learning:  SQL and PostgreSQL: The Complete Developer's Guide
+- :construction_worker: Currently learning:  FastApi
 
 - 📫 How to reach me **alan.skrrrz@gmail.com**
 
