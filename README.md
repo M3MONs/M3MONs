@@ -18,7 +18,7 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=m3mons&theme=dark&show_icons=true&locale=en&layout=compact" alt="m3mons" /></p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,html,css,python,flask,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,html,css,python,flask,django,cs,dotnet)](https://skillicons.dev)
 
 
 <h3 align="left">Databases:</h3>
@@ -27,4 +27,4 @@
 
 <h3 align="left">Systems and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,linux,debian,ubuntu,windows,docker,git,npm,postman,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,linux,debian,ubuntu,windows,docker,git,npm,postman,bash,vite)](https://skillicons.dev)
