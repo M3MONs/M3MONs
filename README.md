@@ -6,7 +6,7 @@
 
 <h3 align="center">Junior Software Developer</h3>
 
-- :construction_worker: Currently learning:  Go
+- :construction_worker: Currently learning:  Boot.dev
 
 - 📫 How to reach me **alan.skrrrz@gmail.com**
 
